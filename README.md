@@ -76,18 +76,6 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dos
 
 Katkıda Bulunma
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
-
-Bu depoyu forklayın.
-
-Yeni bir branch oluşturun (git checkout -b yeni-ozellik).
-
-Değişikliklerinizi commit edin (git commit -am 'Yeni özellik eklendi').
-
-Branch'inizi pushlayın (git push origin yeni-ozellik).
-
-Bir Pull Request oluşturun.
-
-Teşekkürler
-Python ve tkinter ekibine bu harika araçları sağladıkları için teşekkürler!
+için teşekkürler!
 
 Tüm kullanıcılara ve katkıda bulunanlara teşekkürler!
